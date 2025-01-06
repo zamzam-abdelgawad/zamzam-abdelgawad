@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Zamzam and I'm a Full stack developer from Egypt.</p>
+<p align="left">My name is Zamzam and I'm a Front-end developer from Egypt.</p>
 
 ###
 
