@@ -41,9 +41,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/zamzam-abdelgawad/zamzam-abdelgawad/output/snake.svg" alt="Snake animation" />
-
-###
