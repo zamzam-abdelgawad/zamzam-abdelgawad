@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Frontend+Apps...;Crafting+Beautiful+User+Interfaces...;Angular+%7C+React+%7C+Next.js+Lover;Always+Learning+New+Things+🔥" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Frontend+Apps...;Crafting+Beautiful+User+Interfaces...;Angular+%26+React+Lover...;Always+Learning+New+Things%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
