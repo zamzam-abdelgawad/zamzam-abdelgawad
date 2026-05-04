@@ -57,6 +57,9 @@
 
 ### 🚀 Projects
 
+✨ **Showroom Elite**  
+🔗 https://showroomelite.netlify.app/
+
 ✨ **Link Anonymizer**  
 🔗 https://link-anonymizer.netlify.app/
 
