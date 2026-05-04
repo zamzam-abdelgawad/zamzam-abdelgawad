@@ -39,9 +39,7 @@
 
 ### 🔥 Animated Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zamzam-abdelgawad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
-  
+<p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamzam-abdelgawad&theme=tokyonight&hide_border=true&background=0d1117" height="150"/>
 </p>
 
